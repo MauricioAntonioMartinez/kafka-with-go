@@ -1,0 +1,1 @@
+ssl.ca.location=/home/mcuve/.local/lib/python3.8/site-packages/certifi/cacert.pem
